@@ -33,8 +33,3 @@
 	...
 ]
 ```
-
-
-### Additional
-* https://github.com/goodwinxp/Yorozuya
-* https://github.com/gabime/spdlog
