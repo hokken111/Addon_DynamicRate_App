@@ -1,5 +1,4 @@
 ### Addon For YorozuyaGS
-https://github.com/goodwinxp/Yorozuya
 
 ### Configure `global.json`
 
